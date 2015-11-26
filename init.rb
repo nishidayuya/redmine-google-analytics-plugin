@@ -7,7 +7,7 @@ Redmine::Plugin.register :google_analytics_plugin do
   author 'Eric Davis & Raphael Kallensee'
   description 'Redmine plugin to insert a Google Analytics (or e.g. Piwik) tracking code into Redmine based on user roles.'
   url 'https://github.com/rkallensee/redmine-google-analytics-plugin'
-  version '0.4.0'
+  version '1.0.0'
 
   requires_redmine :version_or_higher => '2.0.0'
 

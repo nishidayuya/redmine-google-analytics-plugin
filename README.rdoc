@@ -2,6 +2,9 @@
 
 Redmine plugin to insert a Google Analytics (or e.g. Piwik) tracking code into Redmine based on user roles.
 
+This is a git fork of Eric Davis' +google_analytics_plugin+ plugin which was discontinued and then forked by Raphael Kallensee.
+
+_This plugin is listed in the {Redmine plugin directory}[http://www.redmine.org/plugins/google_analytics_plugin]_
 
 == Features
 
