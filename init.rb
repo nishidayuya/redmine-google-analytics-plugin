@@ -1,5 +1,3 @@
-require 'redmine'
-
 require File.expand_path('../lib/google_analytics_hooks', __FILE__)
 
 Redmine::Plugin.register :google_analytics_plugin do
